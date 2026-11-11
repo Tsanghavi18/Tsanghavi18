@@ -44,7 +44,7 @@ My primary focus is frontend development, creating reusable UI components, integ
 
 ### 🤝 Connect With Me
 
-- LinkedIn: [Tarun Sanghavi](www.linkedin.com/in/tarun-sanghavi)
+- LinkedIn: www.linkedin.com/in/tarun-sanghavi
 
 ---
 
